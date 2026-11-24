@@ -1,0 +1,296 @@
+{
+    "Settings": {
+        "hidden": true
+    },
+    "Mancala First Move": {
+        "hidden": true
+    },
+    "Four-in-a-Row First Move": {
+        "hidden": true
+    },
+    "Dots and Boxes First Move": {
+        "hidden": true
+    },
+    "Nine Men's Morris First Move": {
+        "hidden": true
+    },
+    "Hex First Move": {
+        "hidden": true
+    },
+    "Draughts (Checkers) First Move": {
+        "hidden": true
+    },
+    "Hare and Hounds Play as": {
+        "hidden": true
+    },
+    "Hare and Hounds Hare Placement": {
+        "hidden": true
+    },
+    "Gomoku First Move": {
+        "hidden": true
+    },
+    "Gomoku Three & Three": {
+        "hidden": true
+    },
+    "Gomoku Four & Four": {
+        "hidden": true
+    },
+    "Gomoku Overline": {
+        "hidden": true
+    },
+    "Dominoes Play": {
+        "hidden": true
+    },
+    "Dominoes No Playable Tiles": {
+        "hidden": true
+    },
+    "Chinese Checkers Jump Own Pieces": {
+        "hidden": true
+    },
+    "Chinese Checkers Drop in Enemy Area": {
+        "hidden": true
+    },
+    "Chinese Checkers Game Finish": {
+        "hidden": true
+    },
+    "Ludo Starting Threshold": {
+        "hidden": true
+    },
+    "Ludo Blocking": {
+        "hidden": true
+    },
+    "Ludo Goal Conditions": {
+        "hidden": true
+    },
+    "Ludo Game Finish": {
+        "hidden": true
+    },
+    "Backgammon Play": {
+        "hidden": true
+    },
+    "Renegade First Move": {
+        "hidden": true
+    },
+    "Chess First Move": {
+        "hidden": true
+    },
+    "Shogi First Move": {
+        "hidden": true
+    },
+    "Shogi Piece Design": {
+        "hidden": true
+    },
+    "Mini Shogi First Move": {
+        "hidden": true
+    },
+    "Mini Shogi Piece Design": {
+        "hidden": true
+    },
+    "Hanafuda Start": {
+        "hidden": true
+    },
+    "Hanafuda Cherry-Blossom Viewing": {
+        "hidden": true
+    },
+    "Hanafuda Moon Viewing": {
+        "hidden": true
+    },
+    "Riichi Mahjong Game": {
+        "hidden": true
+    },
+    "Riichi Mahjong Red Dora": {
+        "hidden": true
+    },
+    "Riichi Mahjong Tile Design": {
+        "hidden": true
+    },
+    "Last Card Game Finish": {
+        "hidden": true
+    },
+    "Blackjack Play": {
+        "hidden": true
+    },
+    "Blackjack Double Down": {
+        "hidden": true
+    },
+    "Texas Hold'em Play": {
+        "hidden": true
+    },
+    "President Play": {
+        "hidden": true
+    },
+    "President 8 Clear": {
+        "hidden": true
+    },
+    "President 3 of Spaces Reversal": {
+        "hidden": true
+    },
+    "President Restrictions": {
+        "hidden": true
+    },
+    "President Downfall": {
+        "hidden": true
+    },
+    "Sevens Pass": {
+        "hidden": true
+    },
+    "Sevens Aces and Kings": {
+        "hidden": true
+    },
+    "Speed Joker": {
+        "hidden": true
+    },
+    "Matching First Move": {
+        "hidden": true
+    },
+    "Matching After a Match": {
+        "hidden": true
+    },
+    "Matching Type of Match": {
+        "hidden": true
+    },
+    "Takoyaki First Move": {
+        "hidden": true
+    },
+    "Takoyaki Joker": {
+        "hidden": true
+    },
+    "Pig's Tail First Move": {
+        "hidden": true
+    },
+    "Pig's Tail Penalty Cards": {
+        "hidden": true
+    },
+    "Golf Starting Hole": {
+        "hidden": true
+    },
+    "Billiards First Move": {
+        "hidden": true
+    },
+    "Billiards Balls": {
+        "hidden": true
+    },
+    "Bowling Bumpers": {
+        "hidden": true
+    },
+    "Darts First Move": {
+        "hidden": true
+    },
+    "Darts Finish": {
+        "hidden": true
+    },
+    "Carrom First Move": {
+        "hidden": true
+    },
+    "Toy Tennis Play": {
+        "hidden": true
+    },
+    "Toy Curling First Move": {
+        "hidden": true
+    },
+    "Toy Baseball Play": {
+        "hidden": true
+    },
+    "Air Hockey Play": {
+        "hidden": true
+    },
+    "Slot Cars Play": {
+        "hidden": true
+    },
+    "Battle Tanks Play": {
+        "hidden": true
+    },
+    "6-Ball Puzzle Handicap": {
+        "hidden": true
+    },
+    "6-Ball Puzzle Guide": {
+        "hidden": true
+    },
+    "Within Board Games": {
+        "hidden": true
+    },
+    "Within Card Games": {
+        "hidden": true
+    },
+    "Within Sports Games": {
+        "hidden": true
+    },
+    "Within Variety and Single-Player Games": {
+        "hidden": true
+    },
+    "Not Board": {
+        "hidden": true
+    },
+    "Not Card": {
+        "hidden": true
+    },
+    "Not Sports": {
+        "hidden": true
+    },
+    "Not Variety or Single-Player": {
+        "hidden": true
+    },
+    "Japanese Board Games": {
+        "hidden": true
+    },
+    "Japanese Card Games": {
+        "hidden": true
+    },
+    "Amazing": {
+        "yaml_option": ["amazing_cpus"]
+    },
+    "Impossible": {
+        "yaml_option": ["impossible_cpus"]
+    },
+    "Additional Checks": {
+        "yaml_option": ["additional_checks"]
+    },
+    "Game Guides": {
+        "yaml_option": ["game_guides"]
+    },
+    "Gate Skip": {
+        "yaml_option": ["!gate_categories"]
+    },
+    "Minor Categories": {
+        "yaml_option": ["gate_categories"]
+    },
+    "Major Categories": {
+        "yaml_option": ["gate_categories"]
+    },
+    "Piano Traps": {
+        "yaml_option": ["piano_traps"]
+    },
+    "Piano Checks": {
+        "yaml_option": ["piano_checks"]
+    },
+    "Overall": {
+        "yaml_option": ["victory_condition_0"]
+    },
+    "Major": {
+        "yaml_option": ["victory_condition_1"]
+    },
+    "Minor": {
+        "yaml_option": ["victory_condition_2"]
+    },
+    "Win Items": {
+        "yaml_option": ["victory_condition_3"]
+    },
+    "Progression Settings": {
+        "hidden": true
+    },
+    "Useful Settings": {
+        "hidden": true
+    },
+    "Filler Settings": {
+        "hidden": true
+    },
+    "Japanese Playing Cards": {
+        "hidden": true
+    },
+    "Non-Japanese Playing Cards": {
+        "hidden": true
+    },
+    "Single-Player Playing Cards": {
+        "hidden": true
+    }
+}

@@ -1,0 +1,349 @@
+{
+    "game": "Clubhouse Games: 51 Worldwide Classics",
+    "creator": "Buck and Belodie",
+
+    "filler_item_name": "Hydration",
+    "starting_items": [
+        {
+            "item_categories": [ "Mancala First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Dots and Boxes First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Four-in-a-Row First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Nine Men's Morris First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Hex First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Draughts (Checkers) First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Hare and Hounds Play as" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Hare and Hounds Hare Placement" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Gomoku First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Gomoku Three & Three" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Gomoku Four & Four" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Gomoku Overline" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Dominoes Play" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Dominoes No Playable Tiles" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Chinese Checkers Jump Own Pieces" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Chinese Checkers Drop in Enemy Area" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Chinese Checkers Game Finish" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Ludo Starting Threshold" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Ludo Blocking" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Ludo Goal Conditions" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Ludo Game Finish" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Backgammon Play" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Renegade First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Chess First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Shogi First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Shogi Piece Design" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Mini Shogi First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Mini Shogi Piece Design" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Hanafuda Start" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Hanafuda Cherry-Blossom Viewing" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Hanafuda Moon Viewing" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Riichi Mahjong Game" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Riichi Mahjong Red Dora" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Riichi Mahjong Tile Design" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Last Card Game Finish" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Blackjack Play" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Blackjack Double Down" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Texas Hold'em Play" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "President Play" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "President 8 Clear" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "President 3 of Spaces Reversal" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "President Restrictions" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "President Downfall" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Sevens Pass" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Sevens Aces and Kings" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Speed Joker" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Matching First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Matching After a Match" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Matching Type of Match" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Takoyaki First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Takoyaki Joker" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Pig's Tail First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Pig's Tail Penalty Cards" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Golf Starting Hole" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Billiards Balls" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Billiards First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Bowling Bumpers" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Darts First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Darts Finish" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Carrom First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Toy Tennis Play" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Toy Curling First Move" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Toy Baseball Play" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Air Hockey Play" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Slot Cars Play" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "Battle Tanks Play" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "6-Ball Puzzle Handicap" ],
+            "random": 1
+        },
+
+        {
+            "item_categories": [ "6-Ball Puzzle Guide" ],
+            "random": 1
+        }
+
+    ]
+
+}

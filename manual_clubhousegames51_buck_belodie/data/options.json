@@ -1,0 +1,471 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "_goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "_death_link": {
+            "default": false
+        },
+        "_filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "priority_locations": {
+        "default": [
+            "Board Games (First Win)",
+            "Card Games (First Win)",
+            "Sports Games (First Win)",
+            "Variety and Single-Player Games (First Win)",
+            "Wooden Games (First Win)",
+            "Paper and Plastic Board Games (First Win)",
+            "Japanese Games (First Win)",
+            "Non-Japanese Card Games (First Win)",
+            "Sophisticated Games (First Win)",
+            "Toy Games (First Win)",
+            "Variety Games (First Win)",
+            "Single-Player Games (First Win)"
+         ]
+    },
+    "user": {
+        "_commented_out_option": {
+            "type": "Toggle",
+            "default": true
+        },
+        "amazing_cpus":{
+            "display_name": "Amazing CPUs",
+            "description": "Setting this option to true will enable locations that require beating amazing-difficulty CPUs.",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": true,
+            "group": "Game Options"
+        },
+        "impossible_cpus": {
+            "display_name": "Impossible CPUs",
+            "description": "Setting this option to true will enable locations that require beating impossible-difficulty CPUs.",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": false,
+            "group": "Game Options"
+        },
+        "additional_checks": {
+            "display_name": "Additional Checks",
+            "description": "Setting this option to true will enable additional locations that have objectives other than completing a game or doing so with a specific difficulty.",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": false,
+            "group": "Game Options"
+        },
+        "game_guides": {
+            "display_name": "Game Guides",
+            "description": "Setting this option to true will enable additional locations based on the existing Game Guides from the Guide Globe.",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": false,
+            "group": "Game Options"
+        },
+
+        "victory_condition_0": {
+            "display_name": "Victory Condition: Overall",
+            "type": "Toggle",
+            "description": [
+                "Use the following options to define the win condition types. Achieving each will provide a 'victory condition point', and you can later define how many of these you need to win.",
+                "",
+                "**Overall:** Beat X number of different games."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": true,
+            "group": "Game Options"
+        },
+        "victory_condition_1": {
+            "display_name": "Victory Condition: Major",
+            "type": "Toggle",
+            "description": [
+                "**Major:** Complete enough games in each major category, where the condition for each can be defined individually."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": false,
+            "group": "Game Options"
+        },
+        "victory_condition_2": {
+            "display_name": "Victory Condition: Minor",
+            "type": "Toggle",
+            "description": [
+                "**Minor:** Complete enough games in each minor category, where the condition for each can be defined individually."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": false,
+            "group": "Game Options"
+        },
+        "victory_condition_3": {
+            "display_name": "Victory Condition: Items",
+            "type": "Toggle",
+            "description": [
+                "**Items:** Obtain X number of mastery trophies from checks."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": true,
+            "group": "Game Options"
+        },
+        "victory_condition_amount": {
+            "display_name": "Victory Condition: Amount Required For Victory",
+            "type": "Range",
+            "description": [
+                "Define how many 'victory condition points' you need to win. Note that if this is larger than the number of victory conditions you have enabled above, generation will override this and set it to the number of enabled victory conditions."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "range_start": 1,
+            "default": 1,
+            "range_end": 4,
+            "group": "Game Options"
+        },
+
+        "gate_categories": {
+            "display_name": "Gate Games Using Categories",
+            "type": "Choice",
+            "description": [
+                "If 'full', a game, its minor category and its major category must be found in order to be playable. If 'minor'/'major', a game and its minor/major category respectively must be found in order to be playable. If 'disabled', each game will be immediately playable upon being found."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "values": {
+                "disabled": 0,
+                "minor": 1,
+                "major": 2,
+                "full": 3
+            },
+            "group": "Game Options"
+        },
+        "category_gate_count": {
+            "display_name": "Gate Games Using Categories",
+            "type": "Range",
+            "description": [
+                "If 'gate_categories' is not disabled, this determines how many copies of each minor/major category, as appropriate, are placed into the item pool."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "range_start": 1,
+            "default": 3,
+            "range_end": 4,
+            "group": "Game Options"
+        },
+        "piano_traps": {
+            "display_name": "Piano Traps",
+            "type": "Toggle",
+            "description": [
+                "Enable traps to complete various melodies on the piano. It is recommended, but not enforced, that this be disabled if Piano Checks is enabled."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": false,
+            "group": "Game Options"
+        },
+        "piano_checks": {
+            "display_name": "Piano Checks",
+            "type": "Toggle",
+            "description": [
+                "Enable checks to complete various melodies on the piano. It is recommended, but not enforced, that this be disabled if Piano Traps is enabled."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": true,
+            "group": "Game Options"
+        },
+
+        "games_required_for_victory": {
+            "display_name": "Games Required for Victory",
+            "type": "Range",
+            "description": [
+                "If the win condition of this manual is to beat X number of different games, use this option to define the number of games required for victory."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "range_start": 5,
+            "default": 30,
+            "range_end": 51,
+            "group": "Game Options"
+        },
+
+        "board_games_required_for_victory": {
+            "display_name": "Board Games Required for Victory",
+            "type": "Range",
+            "description": [
+                "If the win condition of this manual is to complete enough games in each major category, use this option to define the number of board games required for satisfying this major category."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "range_start": 0,
+            "default": 11,
+            "range_end": 19,
+            "group": "Game Options"
+        },
+
+        "card_games_required_for_victory": {
+            "display_name": "Card Games Required for Victory",
+            "type": "Range",
+            "description": [
+                "If the win condition of this manual is to complete enough games in each major category, use this option to define the number of card games required for satisfying this major category."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "range_start": 0,
+            "default": 7,
+            "range_end": 11,
+            "group": "Game Options"
+        },
+
+        "sports_games_required_for_victory": {
+            "display_name": "Sports Games Required for Victory",
+            "type": "Range",
+            "description": [
+                "If the win condition of this manual is to complete enough games in each major category, use this option to define the number of sports games required for satisfying this major category."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "range_start": 0,
+            "default": 6,
+            "range_end": 10,
+            "group": "Game Options"
+        },
+
+        "variety_and_single_player_games_required_for_victory": {
+            "display_name": "Variety/Single-Player Games Required for Victory",
+            "type": "Range",
+            "description": [
+                "If the win condition of this manual is to complete enough games in each major category, use this option to define the number of variety and single-player games required for satisfying this major category."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "range_start": 0,
+            "default": 6,
+            "range_end": 11,
+            "group": "Game Options"
+        },
+
+        "wooden_games_required_for_victory": {
+            "display_name": "Wooden Games Required for Victory",
+            "type": "Range",
+            "description": [
+                "If the win condition of this manual is to complete enough games in each minor category, use this option to define the number of wooden games required for satisfying this minor category."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "range_start": 0,
+            "default": 5,
+            "range_end": 8,
+            "group": "Game Options"
+        },
+
+        "paper_plastic_board_games_required_for_victory": {
+            "display_name": "Paper/Plastic Board Games Required for Victory",
+            "type": "Range",
+            "description": [
+                "If the win condition of this manual is to complete enough games in each minor category, use this option to define the number of paper or plastic board games required for satisfying this minor category."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "range_start": 0,
+            "default": 4,
+            "range_end": 7,
+            "group": "Game Options"
+        },
+
+        "japanese_games_required_for_victory": {
+            "display_name": "Japanese Games Required for Victory",
+            "type": "Range",
+            "description": [
+                "If the win condition of this manual is to complete enough games in each minor category, use this option to define the number of Japanese games required for satisfying this minor category."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "range_start": 0,
+            "default": 4,
+            "range_end": 7,
+            "group": "Game Options"
+        },
+
+        "non_japanese_card_games_required_for_victory": {
+            "display_name": "Non-Japanese Card Games Required for Victory",
+            "type": "Range",
+            "description": [
+                "If the win condition of this manual is to complete enough games in each minor category, use this option to define the number of non-Japanese card games required for satisfying this minor category."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "range_start": 0,
+            "default": 5,
+            "range_end": 8,
+            "group": "Game Options"
+        },
+
+        "sophisticated_games_required_for_victory": {
+            "display_name": "Sophisticated Games Required for Victory",
+            "type": "Range",
+            "description": [
+                "If the win condition of this manual is to complete enough games in each minor category, use this option to define the number of sophisticated games required for satisfying this minor category."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "range_start": 0,
+            "default": 3,
+            "range_end": 5,
+            "group": "Game Options"
+        },
+
+        "toy_games_required_for_victory": {
+            "display_name": "Toy Games Required for Victory",
+            "type": "Range",
+            "description": [
+                "If the win condition of this manual is to complete enough games in each minor category, use this option to define the number of toy games required for satisfying this minor category."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "range_start": 0,
+            "default": 3,
+            "range_end": 5,
+            "group": "Game Options"
+        },
+
+        "variety_games_required_for_victory": {
+            "display_name": "Variety Games Required for Victory",
+            "type": "Range",
+            "description": [
+                "If the win condition of this manual is to complete enough games in each minor category, use this option to define the number of variety games required for satisfying this minor category."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "range_start": 0,
+            "default": 4,
+            "range_end": 7,
+            "group": "Game Options"
+        },
+
+        "single_player_games_required_for_victory": {
+            "display_name": "Single-Player Games Required for Victory",
+            "type": "Range",
+            "description": [
+                "If the win condition of this manual is to complete enough games in each minor category, use this option to define the number of single-player games required for satisfying this minor category."
+            ],
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "range_start": 0,
+            "default": 2,
+            "range_end": 4,
+            "group": "Game Options"
+        },
+
+      "trophies_required_for_victory": {
+        "display_name": "Trophies Required for Victory",
+        "type": "Range",
+        "description": [
+          "If the win condition of this manual is to obtain X number of mastery trophies from checks, use this option to define the number of trophies required for victory."
+        ],
+        "visibility": [
+          "simple_ui",
+          "complex_ui",
+          "template"
+        ],
+        "range_start": 5,
+        "default": 30,
+        "range_end": 51,
+        "group": "Game Options"
+      }
+    }
+}

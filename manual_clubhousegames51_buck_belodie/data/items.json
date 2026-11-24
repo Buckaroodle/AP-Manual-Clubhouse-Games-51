@@ -1,0 +1,1323 @@
+[
+    { 
+        "name": "Mancala", 
+        "category": ["Games", "Mancala (Category)", "Board Games", "Wooden Games"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Mancala)", 
+        "category": ["Mancala (Category)", "Mancala First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Mancala)", 
+        "category": ["Mancala (Category)", "Mancala First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Mancala)", 
+        "category": ["Mancala (Category)", "Mancala First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Dots and Boxes", 
+        "category": ["Games", "Dots and Boxes (Category)", "Paper and Plastic Board Games", "Board Games"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Dots and Boxes)", 
+        "category": ["Dots and Boxes (Category)", "Dots and Boxes First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Dots and Boxes)", 
+        "category": ["Dots and Boxes (Category)", "Dots and Boxes First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Dots and Boxes)", 
+        "category": ["Dots and Boxes (Category)", "Dots and Boxes First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Yacht Dice", 
+        "category": ["Games", "Yacht Dice (Category)", "Board Games", "Wooden Games"],
+        "progression": true
+    },
+    { 
+        "name": "Four-in-a-Row", 
+        "category": ["Games", "Four-in-a-Row (Category)", "Paper and Plastic Board Games", "Board Games"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Four-in-a-Row)", 
+        "category": ["Four-in-a-Row (Category)", "Four-in-a-Row First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Four-in-a-Row)", 
+        "category": ["Four-in-a-Row (Category)", "Four-in-a-Row First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Four-in-a-Row)", 
+        "category": ["Four-in-a-Row (Category)", "Four-in-a-Row First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Hit and Blow", 
+        "category": ["Games", "Hit and Blow (Category)", "Paper and Plastic Board Games", "Board Games"],
+        "progression": true
+    },
+    { 
+        "name": "Nine Men's Morris", 
+        "category": ["Games", "Nine Men's Morris (Category)", "Board Games", "Wooden Games"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Nine Men's Morris)", 
+        "category": ["Nine Men's Morris (Category)", "Nine Men's Morris First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Nine Men's Morris)", 
+        "category": ["Nine Men's Morris (Category)", "Nine Men's Morris First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Nine Men's Morris)", 
+        "category": ["Nine Men's Morris (Category)", "Nine Men's Morris First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Hex", 
+        "category": ["Games", "Hex (Category)", "Paper and Plastic Board Games", "Board Games"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Hex)", 
+        "category": ["Hex (Category)", "Hex First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Hex)", 
+        "category": ["Hex (Category)", "Hex First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Hex)", 
+        "category": ["Hex (Category)", "Hex First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Draughts (Checkers)", 
+        "category": ["Games", "Draughts (Checkers) (Category)", "Board Games", "Wooden Games"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Draughts (Checkers))", 
+        "category": ["Draughts (Checkers) (Category)", "Draughts (Checkers) First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Draughts (Checkers))", 
+        "category": ["Draughts (Checkers) (Category)", "Draughts (Checkers) First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Draughts (Checkers))", 
+        "category": ["Draughts (Checkers) (Category)", "Draughts (Checkers) First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Hare and Hounds", 
+        "category": ["Games", "Hare and Hounds (Category)", "Board Games", "Wooden Games"],
+        "progression": true
+    },
+    { 
+        "name": "Play as Hounds (Hare and Hounds)", 
+        "category": ["Hare and Hounds (Category)", "Hare and Hounds Play as", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play as Hare (Hare and Hounds)", 
+        "category": ["Hare and Hounds (Category)", "Hare and Hounds Play as", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Hare Placement Fixed (Hare and Hounds)", 
+        "category": ["Hare and Hounds (Category)", "Hare and Hounds Hare Placement", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Hare Placement Random (Hare and Hounds)", 
+        "category": ["Hare and Hounds (Category)", "Hare and Hounds Hare Placement", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Gomoku", 
+        "category": ["Games", "Gomoku (Category)", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Gomoku)", 
+        "category": ["Gomoku (Category)", "Gomoku First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Gomoku)", 
+        "category": ["Gomoku (Category)", "Gomoku First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Gomoku)", 
+        "category": ["Gomoku (Category)", "Gomoku First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Three & Three Allow (Gomoku)", 
+        "category": ["Gomoku (Category)", "Gomoku Three & Three", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Three & Three Forbid for P1 (Gomoku)", 
+        "category": ["Gomoku (Category)", "Gomoku Three & Three", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Four & Four Allow (Gomoku)", 
+        "category": ["Gomoku (Category)", "Gomoku Four & Four", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Four & Four Forbid for P1 (Gomoku)", 
+        "category": ["Gomoku (Category)", "Gomoku Four & Four", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Overline Allow (Gomoku)", 
+        "category": ["Gomoku (Category)", "Gomoku Overline", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Overline Forbid for P1 (Gomoku)", 
+        "category": ["Gomoku (Category)", "Gomoku Overline", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Dominoes", 
+        "category": ["Games", "Dominoes (Category)", "Paper and Plastic Board Games", "Board Games"],
+        "progression": true
+    },
+    { 
+        "name": "Play 35-Point Match (Dominoes)", 
+        "category": ["Dominoes (Category)", "Dominoes Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play 61-Point Match (Dominoes)", 
+        "category": ["Dominoes (Category)", "Dominoes Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "No Playable Tiles Keep Drawing (Dominoes)", 
+        "category": ["Dominoes (Category)", "Dominoes No Playable Tiles", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "No Playable Tiles Draw 1 (Dominoes)", 
+        "category": ["Dominoes (Category)", "Dominoes No Playable Tiles", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "No Playable Tiles Pass Without Draw (Dominoes)", 
+        "category": ["Dominoes (Category)", "Dominoes No Playable Tiles", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Chinese Checkers", 
+        "category": ["Games", "Chinese Checkers (Category)", "Board Games", "Wooden Games"],
+        "progression": true
+    },
+    { 
+        "name": "Jump Own Pieces Allowed (Chinese Checkers)", 
+        "category": ["Chinese Checkers (Category)", "Chinese Checkers Jump Own Pieces", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Jump Own Pieces Forbidden (Chinese Checkers)", 
+        "category": ["Chinese Checkers (Category)", "Chinese Checkers Jump Own Pieces", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Drop in Enemy Area Allowed (Chinese Checkers)", 
+        "category": ["Chinese Checkers (Category)", "Chinese Checkers Drop in Enemy Area", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Drop in Enemy Area Forbidden (Chinese Checkers)", 
+        "category": ["Chinese Checkers (Category)", "Chinese Checkers Drop in Enemy Area", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Game Finish To 1st Place (Chinese Checkers)", 
+        "category": ["Chinese Checkers (Category)", "Chinese Checkers Game Finish", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Game Finish To All Places (Chinese Checkers)", 
+        "category": ["Chinese Checkers (Category)", "Chinese Checkers Game Finish", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Ludo", 
+        "category": ["Games", "Ludo (Category)", "Paper and Plastic Board Games", "Board Games"],
+        "progression": true
+    },
+    { 
+        "name": "Starting Threshold No Roll (Ludo)", 
+        "category": ["Ludo (Category)", "Ludo Starting Threshold", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Starting Threshold Roll 3 Times (Ludo)", 
+        "category": ["Ludo (Category)", "Ludo Starting Threshold", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Starting Threshold Roll 1 Time (Ludo)", 
+        "category": ["Ludo (Category)", "Ludo Starting Threshold", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Blocking Off (Ludo)", 
+        "category": ["Ludo (Category)", "Ludo Blocking", "Settings", "Progression Settings"],
+        "progression": true
+    },
+    { 
+        "name": "Blocking On (Ludo)", 
+        "category": ["Ludo (Category)", "Ludo Blocking", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Goal Conditions Exact (Ludo)", 
+        "category": ["Ludo (Category)", "Ludo Goal Conditions", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Goal Conditions Over OK (Ludo)", 
+        "category": ["Ludo (Category)", "Ludo Goal Conditions", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Game Finish To 1st Place (Ludo)", 
+        "category": ["Ludo (Category)", "Ludo Game Finish", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Game Finish To All Places (Ludo)", 
+        "category": ["Ludo (Category)", "Ludo Game Finish", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Backgammon", 
+        "category": ["Games", "Backgammon (Category)", "Board Games", "Wooden Games"],
+        "progression": true
+    },
+    { 
+        "name": "Play Single Game (Backgammon)", 
+        "category": ["Backgammon (Category)", "Backgammon Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play 3-Point Match (Backgammon)", 
+        "category": ["Backgammon (Category)", "Backgammon Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play 5-Point Match (Backgammon)", 
+        "category": ["Backgammon (Category)", "Backgammon Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Renegade", 
+        "category": ["Games", "Renegade (Category)", "Paper and Plastic Board Games", "Board Games"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Renegade)", 
+        "category": ["Renegade (Category)", "Renegade First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Renegade)", 
+        "category": ["Renegade (Category)", "Renegade First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Renegade)", 
+        "category": ["Renegade (Category)", "Renegade First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Chess", 
+        "category": ["Games", "Chess (Category)", "Board Games", "Wooden Games"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Chess)", 
+        "category": ["Chess (Category)", "Chess First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Chess)", 
+        "category": ["Chess (Category)", "Chess First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Chess)", 
+        "category": ["Chess (Category)", "Chess First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Shogi", 
+        "category": ["Games", "Shogi (Category)", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Shogi)", 
+        "category": ["Shogi (Category)", "Shogi First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Shogi)", 
+        "category": ["Shogi (Category)", "Shogi First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Shogi)", 
+        "category": ["Shogi (Category)", "Shogi First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Piece Design Global (Shogi)", 
+        "category": ["Shogi (Category)", "Shogi Piece Design", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Piece Design Classic (Shogi)", 
+        "category": ["Shogi (Category)", "Shogi Piece Design", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Mini Shogi", 
+        "category": ["Games", "Mini Shogi (Category)", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Mini Shogi)", 
+        "category": ["Mini Shogi (Category)", "Mini Shogi First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Mini Shogi)", 
+        "category": ["Mini Shogi (Category)", "Mini Shogi First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Mini Shogi)", 
+        "category": ["Mini Shogi (Category)", "Mini Shogi First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Piece Design Global (Mini Shogi)", 
+        "category": ["Mini Shogi (Category)", "Mini Shogi Piece Design", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Piece Design Classic (Mini Shogi)", 
+        "category": ["Mini Shogi (Category)", "Mini Shogi Piece Design", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Hanafuda", 
+        "category": ["Games", "Hanafuda (Category)", "Japanese Games", "Card Games", "Japanese Card Games"],
+        "progression": true
+    },
+    { 
+        "name": "Start 3-Round Game (Hanafuda)", 
+        "category": ["Hanafuda (Category)", "Hanafuda Start", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Start 6-Round Game (Hanafuda)", 
+        "category": ["Hanafuda (Category)", "Hanafuda Start", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Start 12-Round Game (Hanafuda)", 
+        "category": ["Hanafuda (Category)", "Hanafuda Start", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Cherry-Blossom Viewing On (Hanafuda)", 
+        "category": ["Hanafuda (Category)", "Hanafuda Cherry-Blossom Viewing", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Cherry-Blossom Viewing Off (Hanafuda)", 
+        "category": ["Hanafuda (Category)", "Hanafuda Cherry-Blossom Viewing", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Moon Viewing On (Hanafuda)", 
+        "category": ["Hanafuda (Category)", "Hanafuda Moon Viewing", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Moon Viewing Off (Hanafuda)", 
+        "category": ["Hanafuda (Category)", "Hanafuda Moon Viewing", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Card Design Mario (Hanafuda)", 
+        "category": ["Hanafuda (Category)", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Riichi Mahjong", 
+        "category": ["Games", "Riichi Mahjong (Category)", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "progression": true
+    },
+    { 
+        "name": "East-Only Game (Riichi Mahjong)", 
+        "category": ["Riichi Mahjong (Category)", "Riichi Mahjong Game", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "East/South Game (Riichi Mahjong)", 
+        "category": ["Riichi Mahjong (Category)", "Riichi Mahjong Game", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Red Dora On (Riichi Mahjong)", 
+        "category": ["Riichi Mahjong (Category)", "Riichi Mahjong Red Dora", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Red Dora Off (Riichi Mahjong)", 
+        "category": ["Riichi Mahjong (Category)", "Riichi Mahjong Red Dora", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Tile Design Global (Riichi Mahjong)", 
+        "category": ["Riichi Mahjong (Category)", "Riichi Mahjong Tile Design", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Tile Design Classic (Riichi Mahjong)", 
+        "category": ["Riichi Mahjong (Category)", "Riichi Mahjong Tile Design", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Last Card", 
+        "category": ["Games", "Last Card (Category)", "Non-Japanese Card Games", "Card Games"],
+        "progression": true
+    },
+    { 
+        "name": "Game Finish to 1st Place (Last Card)", 
+        "category": ["Last Card (Category)", "Last Card Game Finish", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Game Finish to All Places (Last Card)", 
+        "category": ["Last Card (Category)", "Last Card Game Finish", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Blackjack", 
+        "category": ["Games", "Blackjack (Category)", "Non-Japanese Card Games", "Card Games", "Non-Japanese Playing Cards"],
+        "progression": true
+    },
+    { 
+        "name": "Play 5 Rounds (Blackjack)", 
+        "category": ["Blackjack (Category)", "Blackjack Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play 10 Rounds (Blackjack)", 
+        "category": ["Blackjack (Category)", "Blackjack Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Double Down On (Blackjack)", 
+        "category": ["Blackjack (Category)", "Blackjack Double Down", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Double Down Off (Blackjack)", 
+        "category": ["Blackjack (Category)", "Blackjack Double Down", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Card Design Mario (Blackjack)", 
+        "category": ["Blackjack (Category)", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Texas Hold'em", 
+        "category": ["Games", "Texas Hold'em (Category)", "Non-Japanese Card Games", "Card Games", "Non-Japanese Playing Cards"],
+        "progression": true
+    },
+    { 
+        "name": "Play 5 Rounds (Texas Hold'em)", 
+        "category": ["Texas Hold'em (Category)", "Texas Hold'em Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play 10 Rounds (Texas Hold'em)", 
+        "category": ["Texas Hold'em (Category)", "Texas Hold'em Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Card Design Mario (Texas Hold'em)", 
+        "category": ["Texas Hold'em (Category)", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "President", 
+        "category": ["Games", "President (Category)", "Non-Japanese Card Games", "Card Games", "Non-Japanese Playing Cards"],
+        "progression": true
+    },
+    { 
+        "name": "Play 5 Rounds (President)", 
+        "category": ["President (Category)", "President Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play 10 Rounds (President)", 
+        "category": ["President (Category)", "President Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "8 Clear On (President)", 
+        "category": ["President (Category)", "President 8 Clear", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "8 Clear Off (President)", 
+        "category": ["President (Category)", "President 8 Clear", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "3 of Spades Reversal On (President)", 
+        "category": ["President (Category)", "President 3 of Spaces Reversal", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "3 of Spades Reversal Off (President)", 
+        "category": ["President (Category)", "President 3 of Spaces Reversal", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Restrictions Off (President)", 
+        "category": ["President (Category)", "President Restrictions", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Restrictions 2 Cards (President)", 
+        "category": ["President (Category)", "President Restrictions", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Restrictions 3 Cards (President)", 
+        "category": ["President (Category)", "President Restrictions", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Downfall On (President)", 
+        "category": ["President (Category)", "President Downfall", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Downfall Off (President)", 
+        "category": ["President (Category)", "President Downfall", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Card Design Mario (President)", 
+        "category": ["President (Category)", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Sevens", 
+        "category": ["Games", "Sevens (Category)", "Non-Japanese Card Games", "Card Games", "Non-Japanese Playing Cards"],
+        "progression": true
+    },
+    { 
+        "name": "Pass 5 Times (Sevens)", 
+        "category": ["Sevens (Category)", "Sevens Pass", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Pass 3 Times (Sevens)", 
+        "category": ["Sevens (Category)", "Sevens Pass", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Pass 1 Times (Sevens)", 
+        "category": ["Sevens (Category)", "Sevens Pass", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Pass Off (Sevens)", 
+        "category": ["Sevens (Category)", "Sevens Pass", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Aces and Kings Don't Connect (Sevens)", 
+        "category": ["Sevens (Category)", "Sevens Aces and Kings", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Aces and Kings Connect (Sevens)", 
+        "category": ["Sevens (Category)", "Sevens Aces and Kings", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Card Design Mario (Sevens)", 
+        "category": ["Sevens (Category)", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Speed", 
+        "category": ["Games", "Speed (Category)", "Non-Japanese Card Games", "Card Games", "Non-Japanese Playing Cards"],
+        "progression": true
+    },
+    { 
+        "name": "Joker On (Speed)", 
+        "category": ["Speed (Category)", "Speed Joker", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Joker Off (Speed)", 
+        "category": ["Speed (Category)", "Speed Joker", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Card Design Mario (Speed)", 
+        "category": ["Speed (Category)", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Matching", 
+        "category": ["Games", "Matching (Category)", "Non-Japanese Card Games", "Card Games"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Matching)", 
+        "category": ["Matching (Category)", "Matching First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Matching)", 
+        "category": ["Matching (Category)", "Matching First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Matching)", 
+        "category": ["Matching (Category)", "Matching First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "After a Match Flip Again (Matching)", 
+        "category": ["Matching (Category)", "Matching After a Match", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "After a Match Turn Ends (Matching)", 
+        "category": ["Matching (Category)", "Matching After a Match", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Type of Match 2 Cards (Matching)", 
+        "category": ["Matching (Category)", "Matching Type of Match", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Type of Match 4 Cards (Matching)", 
+        "category": ["Matching (Category)", "Matching Type of Match", "Settings", "Progression Settings"],
+        "progression": true
+    },
+    { 
+        "name": "Card Design Mario (Matching)", 
+        "category": ["Matching (Category)", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "War", 
+        "category": ["Games", "War (Category)", "Non-Japanese Card Games", "Card Games", "Non-Japanese Playing Cards"],
+        "progression": true
+    },
+    { 
+        "name": "Card Design Mario (War)",
+        "category": ["War (Category)", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Takoyaki", 
+        "category": ["Games", "Takoyaki (Category)", "Japanese Games", "Card Games", "Japanese Card Games", "Japanese Playing Cards"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Takoyaki)", 
+        "category": ["Takoyaki (Category)", "Takoyaki First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Takoyaki)", 
+        "category": ["Takoyaki (Category)", "Takoyaki First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Takoyaki)", 
+        "category": ["Takoyaki (Category)", "Takoyaki First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Joker On (Takoyaki)", 
+        "category": ["Takoyaki (Category)", "Takoyaki Joker", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Joker Off (Takoyaki)", 
+        "category": ["Takoyaki (Category)", "Takoyaki Joker", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Card Design Mario (Takoyaki)", 
+        "category": ["Takoyaki (Category)", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Pig's Tail", 
+        "category": ["Games", "Pig's Tail (Category)", "Japanese Games", "Card Games", "Japanese Card Games", "Japanese Playing Cards"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Pig's Tail)", 
+        "category": ["Pig's Tail (Category)", "Pig's Tail First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Pig's Tail)", 
+        "category": ["Pig's Tail (Category)", "Pig's Tail First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Pig's Tail)", 
+        "category": ["Pig's Tail (Category)", "Pig's Tail First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Penalty Cards Allowed (Pig's Tail)", 
+        "category": ["Pig's Tail (Category)", "Pig's Tail Penalty Cards", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Penalty Cards Forbidden (Pig's Tail)", 
+        "category": ["Pig's Tail (Category)", "Pig's Tail Penalty Cards", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Card Design Mario (Pig's Tail)", 
+        "category": ["Pig's Tail (Category)", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Golf", 
+        "category": ["Games", "Golf (Category)", "Sophisticated Games", "Sports Games"],
+        "progression": true
+    },
+    { 
+        "name": "Starting Hole #1 (Golf)", 
+        "category": ["Golf (Category)", "Golf Starting Hole", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Starting Hole #2 (Golf)", 
+        "category": ["Golf (Category)", "Golf Starting Hole", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Starting Hole #3 (Golf)", 
+        "category": ["Golf (Category)", "Golf Starting Hole", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Starting Hole #4 (Golf)", 
+        "category": ["Golf (Category)", "Golf Starting Hole", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Starting Hole #5 (Golf)", 
+        "category": ["Golf (Category)", "Golf Starting Hole", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Starting Hole #6 (Golf)", 
+        "category": ["Golf (Category)", "Golf Starting Hole", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Starting Hole #7 (Golf)", 
+        "category": ["Golf (Category)", "Golf Starting Hole", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Starting Hole #8 (Golf)", 
+        "category": ["Golf (Category)", "Golf Starting Hole", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Starting Hole #9 (Golf)", 
+        "category": ["Golf (Category)", "Golf Starting Hole", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Starting Hole Random (Golf)", 
+        "category": ["Golf (Category)", "Golf Starting Hole", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Billiards", 
+        "category": ["Games", "Billiards (Category)", "Sophisticated Games", "Sports Games"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Billiards)", 
+        "category": ["Billiards (Category)", "Billiards First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Billiards)", 
+        "category": ["Billiards (Category)", "Billiards First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Billiards)", 
+        "category": ["Billiards (Category)", "Billiards First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Balls No Numbers (Billiards)", 
+        "category": ["Billiards (Category)", "Billiards Balls", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Balls Numbers (Billiards)", 
+        "category": ["Billiards (Category)", "Billiards Balls", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Bowling", 
+        "category": ["Games", "Bowling (Category)", "Sophisticated Games", "Sports Games"],
+        "progression": true
+    },
+    { 
+        "name": "Bumpers Off (Bowling)", 
+        "category": ["Bowling (Category)", "Bowling Bumpers", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Bumpers On (Bowling)", 
+        "category": ["Bowling (Category)", "Bowling Bumpers", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Darts", 
+        "category": ["Games", "Darts (Category)", "Sophisticated Games", "Sports Games"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Darts)", 
+        "category": ["Darts (Category)", "Darts First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Darts)", 
+        "category": ["Darts (Category)", "Darts First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Darts)", 
+        "category": ["Darts (Category)", "Darts First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Finish Double Out (Darts)", 
+        "category": ["Darts (Category)", "Darts Finish", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Finish Open Out (Darts)", 
+        "category": ["Darts (Category)", "Darts Finish", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Carrom", 
+        "category": ["Games", "Carrom (Category)", "Variety Games", "Variety and Single-Player Games"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Carrom)", 
+        "category": ["Carrom (Category)", "Carrom First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Carrom)", 
+        "category": ["Carrom (Category)", "Carrom First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Carrom)", 
+        "category": ["Carrom (Category)", "Carrom First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Toy Tennis", 
+        "category": ["Games", "Toy Tennis (Category)", "Toy Games", "Sports Games"],
+        "progression": true
+    },
+    { 
+        "name": "Play 1-Game Match (Toy Tennis)", 
+        "category": ["Toy Tennis (Category)", "Toy Tennis Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play 2-Game Match (Toy Tennis)", 
+        "category": ["Toy Tennis (Category)", "Toy Tennis Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play 3-Game Match (Toy Tennis)", 
+        "category": ["Toy Tennis (Category)", "Toy Tennis Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Toy Football (Toy Soccer)", 
+        "category": ["Games", "Toy Football (Toy Soccer) (Category)", "Toy Games", "Sports Games"],
+        "progression": true
+    },
+    { 
+        "name": "Toy Curling", 
+        "category": ["Games", "Toy Curling (Category)", "Toy Games", "Sports Games"],
+        "progression": true
+    },
+    { 
+        "name": "First Move P1 (Toy Curling)", 
+        "category": ["Toy Curling (Category)", "Toy Curling First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move CPU (Toy Curling)", 
+        "category": ["Toy Curling (Category)", "Toy Curling First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "First Move Random (Toy Curling)", 
+        "category": ["Toy Curling (Category)", "Toy Curling First Move", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Toy Boxing", 
+        "category": ["Games", "Toy Boxing (Category)", "Toy Games", "Sports Games"],
+        "progression": true
+    },
+    { 
+        "name": "Toy Baseball", 
+        "category": ["Games", "Toy Baseball (Category)", "Toy Games", "Sports Games"],
+        "progression": true
+    },
+    { 
+        "name": "Play 3 Innings (Toy Baseball)", 
+        "category": ["Toy Baseball (Category)", "Toy Baseball Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play 6 Innings (Toy Baseball)", 
+        "category": ["Toy Baseball (Category)", "Toy Baseball Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play 9 Innings (Toy Baseball)", 
+        "category": ["Toy Baseball (Category)", "Toy Baseball Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Air Hockey", 
+        "category": ["Games", "Air Hockey (Category)", "Sophisticated Games", "Sports Games"],
+        "progression": true
+    },
+    { 
+        "name": "Play 5-Point Match (Air Hockey)", 
+        "category": ["Air Hockey (Category)", "Air Hockey Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play 10-Point Match (Air Hockey)", 
+        "category": ["Air Hockey (Category)", "Air Hockey Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Slot Cars", 
+        "category": ["Games", "Slot Cars (Category)", "Variety Games", "Variety and Single-Player Games"],
+        "progression": true
+    },
+    { 
+        "name": "Play Track #1 (Slot Cars)", 
+        "category": ["Slot Cars (Category)", "Slot Cars Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play Track #2 (Slot Cars)", 
+        "category": ["Slot Cars (Category)", "Slot Cars Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play Track #3 (Slot Cars)", 
+        "category": ["Slot Cars (Category)", "Slot Cars Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play 3-Track Circuit (Slot Cars)", 
+        "category": ["Slot Cars (Category)", "Slot Cars Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Fishing", 
+        "category": ["Games", "Fishing (Category)", "Variety Games", "Variety and Single-Player Games"],
+        "progression": true
+    },
+    { 
+        "name": "Battle Tanks", 
+        "category": ["Games", "Battle Tanks (Category)", "Variety Games", "Variety and Single-Player Games"],
+        "progression": true
+    },
+    { 
+        "name": "Play Field #1 (Battle Tanks)", 
+        "category": ["Battle Tanks (Category)", "Battle Tanks Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play Field #2 (Battle Tanks)", 
+        "category": ["Battle Tanks (Category)", "Battle Tanks Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Play Field #3 (Battle Tanks)", 
+        "category": ["Battle Tanks (Category)", "Battle Tanks Play", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Team Tanks", 
+        "category": ["Games", "Team Tanks (Category)", "Variety Games", "Variety and Single-Player Games"],
+        "progression": true
+    },
+    { 
+        "name": "Shooting Gallery", 
+        "category": ["Games", "Shooting Gallery (Category)", "Variety Games", "Variety and Single-Player Games"],
+        "progression": true
+    },
+    { 
+        "name": "6-Ball Puzzle", 
+        "category": ["Games", "6-Ball Puzzle (Category)", "Variety Games", "Variety and Single-Player Games"],
+        "progression": true
+    },
+    { 
+        "name": "Handicap Off (6-Ball Puzzle)", 
+        "category": ["6-Ball Puzzle (Category)", "6-Ball Puzzle Handicap", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Handicap On P1 (6-Ball Puzzle)", 
+        "category": ["6-Ball Puzzle (Category)", "6-Ball Puzzle Handicap", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Handicap On CPU (6-Ball Puzzle)", 
+        "category": ["6-Ball Puzzle (Category)", "6-Ball Puzzle Handicap", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Guide On (6-Ball Puzzle)", 
+        "category": ["6-Ball Puzzle (Category)", "6-Ball Puzzle Guide", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Guide Off (6-Ball Puzzle)", 
+        "category": ["6-Ball Puzzle (Category)", "6-Ball Puzzle Guide", "Settings", "Useful Settings"],
+        "useful": true
+    },
+    { 
+        "name": "Sliding Puzzle", 
+        "category": ["Games", "Sliding Puzzle (Category)", "Single-Player Games", "Variety and Single-Player Games"],
+        "progression": true
+    },
+    { 
+        "name": "Mahjong Solitaire", 
+        "category": ["Games", "Mahjong Solitaire (Category)", "Single-Player Games", "Variety and Single-Player Games"],
+        "progression": true
+    },
+    { 
+        "name": "Klondike Solitaire", 
+        "category": ["Games", "Klondike Solitaire (Category)", "Single-Player Games", "Variety and Single-Player Games", "Single-Player Playing Cards"],
+        "progression": true
+    },
+    { 
+        "name": "Card Design Mario (Klondike Solitaire)", 
+        "category": ["Klondike Solitaire (Category)", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Spider Solitaire", 
+        "category": ["Games", "Spider Solitaire (Category)", "Single-Player Games", "Variety and Single-Player Games", "Single-Player Playing Cards"],
+        "progression": true
+    },
+    { 
+        "name": "Card Design Mario (Spider Solitaire)", 
+        "category": ["Spider Solitaire (Category)", "Settings", "Filler Settings"],
+        "filler": true
+    },
+    { 
+        "name": "Piano", 
+        "category": ["Games", "Piano (Category)", "Single-Player Games", "Variety and Single-Player Games", "Piano Checks"],
+        "progression": true
+    },
+    {
+        "name": "Piano Trap (Ode To Joy)",
+        "category": ["Piano Traps"],
+        "trap": true
+    },
+    {
+        "name": "Piano Trap (Joy To The World)",
+        "category": ["Piano Traps"],
+        "trap": true
+    },
+    {
+        "name": "Piano Trap (Don't Forget)",
+        "category": ["Piano Traps"],
+        "trap": true
+    },
+    {
+        "name": "Piano Trap (Witch Doctor)",
+        "category": ["Piano Traps"],
+        "trap": true
+    },
+    {
+        "name": "Piano Trap (Twinkle Twinkle Little Star)",
+        "category": ["Piano Traps"],
+        "trap": true
+    },
+    {
+        "name": "Piano Trap (Song of Time)",
+        "category": ["Piano Traps"],
+        "trap": true
+    },
+    { 
+        "count": "0",
+        "name": "Minor Category - Wooden Games", 
+        "category": ["Minor Categories", "Within Board Games"],
+        "progression": true
+    },
+    { 
+        "count": "0",
+        "name": "Minor Category - Japanese Games", 
+        "category": ["Minor Categories", "Within Board Games", "Within Card Games"],
+        "progression": true
+    },
+    { 
+        "count": "0",
+        "name": "Minor Category - Paper and Plastic Board Games", 
+        "category": ["Minor Categories", "Within Board Games"],
+        "progression": true
+    },
+    { 
+        "count": "0",
+        "name": "Minor Category - Non-Japanese Card Games", 
+        "category": ["Minor Categories", "Within Card Games"],
+        "progression": true
+    },
+    { 
+        "count": "0",
+        "name": "Minor Category - Sophisticated Games", 
+        "category": ["Minor Categories", "Within Sports Games"],
+        "progression": true
+    },
+    { 
+        "count": "0",
+        "name": "Minor Category - Toy Games", 
+        "category": ["Minor Categories", "Within Sports Games"],
+        "progression": true
+    },
+    { 
+        "count": "0",
+        "name": "Minor Category - Variety Games", 
+        "category": ["Minor Categories", "Within Variety and Single-Player Games"],
+        "progression": true
+    },
+    { 
+        "count": "0",
+        "name": "Minor Category - Single-Player Games", 
+        "category": ["Minor Categories", "Within Variety and Single-Player Games"],
+        "progression": true
+    },
+    { 
+        "count": "0",
+        "name": "Major Category - Board Games", 
+        "category": ["Major Categories", "Not Card", "Not Sports", "Not Variety or Single-Player"],
+        "progression": true
+    },
+    { 
+        "count": "0",
+        "name": "Major Category - Card Games", 
+        "category": ["Major Categories", "Not Board", "Not Sports", "Not Variety or Single-Player"],
+        "progression": true
+    },
+    {
+        "count": "0",
+        "name": "Major Category - Sports Games", 
+        "category": ["Major Categories", "Not Board", "Not Card", "Not Variety or Single-Player"],
+        "progression": true
+    },
+    {
+        "count": "0",
+        "name": "Major Category - Variety and Single-Player Games", 
+        "category": ["Major Categories", "Not Board", "Not Card", "Not Sports"],
+        "progression": true
+    },
+    {
+	"count": 0,
+        "name": "Minor Category Gate Skip",
+        "category": ["Gate Skip"],
+        "progression": true
+    },
+    {
+	"count": 0,
+        "name": "Major Category Gate Skip",
+        "category": ["Gate Skip"],
+        "progression": true
+    },
+    { 
+        "count": "52",
+        "name": "Mastery Trophy", 
+        "category": ["Win Items"],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": "4",
+        "name": "Victory Condition Point",
+        "category": ["Victory Condition Points"],
+        "progression": true
+    }
+]

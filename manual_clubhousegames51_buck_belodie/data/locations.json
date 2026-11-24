@@ -1,0 +1,1727 @@
+[
+    { 
+        "name": "Mancala (First Win)", 
+        "category": ["Games", "Other", "Wooden Games", "Board Games"],
+        "requires": "|Mancala| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mancala (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Wooden Games", "Board Games"],
+        "requires": "|Mancala| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mancala (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Wooden Games", "Board Games"],
+        "requires": "|Mancala| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mancala (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Wooden Games", "Board Games"],
+        "requires": "|Mancala| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mancala (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Wooden Games", "Board Games"],
+        "requires": "|Mancala| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Dots and Boxes (First Win)", 
+        "category": ["Games", "Other", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Dots and Boxes| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Dots and Boxes (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Dots and Boxes| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Dots and Boxes (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Dots and Boxes| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Dots and Boxes (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Dots and Boxes| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Dots and Boxes (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Dots and Boxes| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Yacht Dice (First Win)", 
+        "category": ["Games", "Other", "Wooden Games", "Board Games"],
+        "requires": "|Yacht Dice| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Yacht Dice (Defeat CPU)", 
+        "category": ["Games", "Normal", "Wooden Games", "Board Games"],
+        "requires": "|Yacht Dice| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Yacht Dice (100 Points)", 
+        "category": ["Games", "Hard", "Wooden Games", "Board Games", "Additional Checks"],
+        "requires": "|Yacht Dice| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Yacht Dice (150 Points)", 
+        "category": ["Games", "Amazing", "Wooden Games", "Board Games", "Additional Checks"],
+        "requires": "|Yacht Dice| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Yacht Dice (200 Points)", 
+        "category": ["Games", "Impossible", "Wooden Games", "Board Games", "Additional Checks"],
+        "requires": "|Yacht Dice| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Yacht Dice (Get a Yacht)", 
+        "category": ["Games", "Other", "Wooden Games", "Board Games", "Additional Checks"],
+        "requires": "|Yacht Dice| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Four-in-a-Row (First Win)", 
+        "category": ["Games", "Other", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Four-in-a-Row| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Four-in-a-Row (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Four-in-a-Row| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Four-in-a-Row (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Four-in-a-Row| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Four-in-a-Row (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Four-in-a-Row| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Four-in-a-Row (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Four-in-a-Row| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hit and Blow (First Win)", 
+        "category": ["Games", "Other", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Hit and Blow| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hit and Blow (Win w/o Duplicate Colours)", 
+        "category": ["Games", "Other", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Hit and Blow| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hit and Blow (Win with Duplicate Colours)", 
+        "category": ["Games", "Other", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Hit and Blow| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Nine Men's Morris (First Win)", 
+        "category": ["Games", "Other", "Wooden Games", "Board Games"],
+        "requires": "|Nine Men's Morris| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Nine Men's Morris (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Wooden Games", "Board Games"],
+        "requires": "|Nine Men's Morris| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Nine Men's Morris (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Wooden Games", "Board Games"],
+        "requires": "|Nine Men's Morris| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Nine Men's Morris (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Wooden Games", "Board Games"],
+        "requires": "|Nine Men's Morris| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Nine Men's Morris (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Wooden Games", "Board Games"],
+        "requires": "|Nine Men's Morris| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hex (First Win)", 
+        "category": ["Games", "Other", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Hex| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hex (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Hex| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hex (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Hex| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hex (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Hex| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hex (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Hex| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Draughts (Checkers) (First Win)", 
+        "category": ["Games", "Other", "Wooden Games", "Board Games"],
+        "requires": "|Draughts (Checkers)| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Draughts (Checkers) (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Wooden Games", "Board Games"],
+        "requires": "|Draughts (Checkers)| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Draughts (Checkers) (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Wooden Games", "Board Games"],
+        "requires": "|Draughts (Checkers)| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Draughts (Checkers) (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Wooden Games", "Board Games"],
+        "requires": "|Draughts (Checkers)| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Draughts (Checkers) (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Wooden Games", "Board Games"],
+        "requires": "|Draughts (Checkers)| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Draughts (Checkers) (Jump Twice in a Row)", 
+        "category": ["Games", "Amazing", "Wooden Games", "Board Games", "Additional Checks"],
+        "requires": "|Draughts (Checkers)| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Draughts (Checkers) (Jump Thrice in a Row)", 
+        "category": ["Games", "Impossible", "Wooden Games", "Board Games", "Additional Checks"],
+        "requires": "|Draughts (Checkers)| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hare and Hounds (First Win)", 
+        "category": ["Games", "Other", "Wooden Games", "Board Games"],
+        "requires": "|Hare and Hounds| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hare and Hounds (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Wooden Games", "Board Games"],
+        "requires": "|Hare and Hounds| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hare and Hounds (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Wooden Games", "Board Games"],
+        "requires": "|Hare and Hounds| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hare and Hounds (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Wooden Games", "Board Games"],
+        "requires": "|Hare and Hounds| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hare and Hounds (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Wooden Games", "Board Games"],
+        "requires": "|Hare and Hounds| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Gomoku (First Win)", 
+        "category": ["Games", "Other", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Gomoku| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Gomoku (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Gomoku| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Gomoku (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Gomoku| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Gomoku (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Gomoku| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Gomoku (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Gomoku| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Dominoes (First Win)", 
+        "category": ["Games", "Other", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Dominoes| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Dominoes (Win at Five-Up)", 
+        "category": ["Games", "Other", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Dominoes| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Dominoes (Win with Simple Rules)", 
+        "category": ["Games", "Other", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Dominoes| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Chinese Checkers (First Win)", 
+        "category": ["Games", "Other", "Wooden Games", "Board Games"],
+        "requires": "|Chinese Checkers| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Chinese Checkers (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Wooden Games", "Board Games"],
+        "requires": "|Chinese Checkers| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Chinese Checkers (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Wooden Games", "Board Games"],
+        "requires": "|Chinese Checkers| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Chinese Checkers (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Wooden Games", "Board Games"],
+        "requires": "|Chinese Checkers| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Chinese Checkers (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Wooden Games", "Board Games"],
+        "requires": "|Chinese Checkers| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Chinese Checkers (Jump Twice in a Row)", 
+        "category": ["Games", "Hard", "Wooden Games", "Board Games", "Additional Checks"],
+        "requires": "|Chinese Checkers| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Chinese Checkers (Jump Thrice in a Row)", 
+        "category": ["Games", "Amazing", "Wooden Games", "Board Games", "Additional Checks"],
+        "requires": "|Chinese Checkers| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Ludo (First Win)", 
+        "category": ["Games", "Other", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Ludo| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Ludo (Win vs. CPU)", 
+        "category": ["Games", "Other", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Ludo| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Ludo (One Piece in Goal)", 
+        "category": ["Games", "Other", "Paper and Plastic Board Games", "Board Games", "Additional Checks"],
+        "requires": "|Ludo| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Ludo (Two Pieces in Goal)", 
+        "category": ["Games", "Other", "Paper and Plastic Board Games", "Board Games", "Additional Checks"],
+        "requires": "|Ludo| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Ludo (Three Pieces in Goal)", 
+        "category": ["Games", "Other", "Paper and Plastic Board Games", "Board Games", "Additional Checks"],
+        "requires": "|Ludo| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Ludo (Four Pieces in Goal)", 
+        "category": ["Games", "Other", "Paper and Plastic Board Games", "Board Games", "Additional Checks"],
+        "requires": "|Ludo| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Ludo (Send an Opponent's Piece to Start)", 
+        "category": ["Games", "Amazing", "Paper and Plastic Board Games", "Board Games", "Additional Checks"],
+        "requires": "|Ludo| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Ludo (Jump Over an Opponent's Piece)", 
+        "category": ["Games", "Normal", "Paper and Plastic Board Games", "Board Games", "Additional Checks"],
+        "requires": "|Ludo| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |Blocking Off (Ludo)|"
+    },
+    { 
+        "name": "Backgammon (First Win)", 
+        "category": ["Games", "Other", "Wooden Games", "Board Games"],
+        "requires": "|Backgammon| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Backgammon (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Wooden Games", "Board Games"],
+        "requires": "|Backgammon| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Backgammon (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Wooden Games", "Board Games"],
+        "requires": "|Backgammon| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Backgammon (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Wooden Games", "Board Games"],
+        "requires": "|Backgammon| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Backgammon (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Wooden Games", "Board Games"],
+        "requires": "|Backgammon| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Renegade (First Win)", 
+        "category": ["Games", "Other", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Renegade| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Renegade (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Renegade| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Renegade (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Renegade| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Renegade (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Renegade| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Renegade (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Paper and Plastic Board Games", "Board Games"],
+        "requires": "|Renegade| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Chess (First Win)", 
+        "category": ["Games", "Other", "Wooden Games", "Board Games"],
+        "requires": "|Chess| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Chess (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Wooden Games", "Board Games"],
+        "requires": "|Chess| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Chess (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Wooden Games", "Board Games"],
+        "requires": "|Chess| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Chess (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Wooden Games", "Board Games"],
+        "requires": "|Chess| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Chess (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Wooden Games", "Board Games"],
+        "requires": "|Chess| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Shogi (First Win)", 
+        "category": ["Games", "Other", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Shogi| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Shogi (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Shogi| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Shogi (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Shogi| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Shogi (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Shogi| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Shogi (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Shogi| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mini Shogi (First Win)", 
+        "category": ["Games", "Other", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Mini Shogi| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mini Shogi (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Mini Shogi| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mini Shogi (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Mini Shogi| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mini Shogi (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Mini Shogi| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mini Shogi (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Mini Shogi| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hanafuda (First Win)", 
+        "category": ["Games", "Other", "Japanese Games", "Card Games", "Japanese Card Games"],
+        "requires": "|Hanafuda| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hanafuda (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Japanese Games", "Card Games", "Japanese Card Games"],
+        "requires": "|Hanafuda| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hanafuda (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Japanese Games", "Card Games", "Japanese Card Games"],
+        "requires": "|Hanafuda| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hanafuda (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Japanese Games", "Card Games", "Japanese Card Games"],
+        "requires": "|Hanafuda| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hanafuda (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Japanese Games", "Card Games", "Japanese Card Games"],
+        "requires": "|Hanafuda| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hanafuda (15 Points)", 
+        "category": ["Games", "Hard", "Japanese Games", "Card Games", "Additional Checks", "Japanese Card Games"],
+        "requires": "|Hanafuda| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hanafuda (Win a Round using Koi-Koi)", 
+        "category": ["Games", "Amazing", "Japanese Games", "Card Games", "Additional Checks", "Japanese Card Games"],
+        "requires": "|Hanafuda| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Hanafuda (30 Points)", 
+        "category": ["Games", "Impossible", "Japanese Games", "Card Games", "Additional Checks", "Japanese Card Games"],
+        "requires": "|Hanafuda| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Riichi Mahjong (First Win)", 
+        "category": ["Games", "Other", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Riichi Mahjong| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Riichi Mahjong (Win vs. Normal+ CPU)", 
+        "category": ["Games", "Normal", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Riichi Mahjong| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Riichi Mahjong (Win vs. Hard+ CPU)", 
+        "category": ["Games", "Hard", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Riichi Mahjong| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Riichi Mahjong (Win vs. Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Riichi Mahjong| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Riichi Mahjong (Win vs. Impossible CPU)", 
+        "category": ["Games", "Impossible", "Japanese Games", "Board Games", "Japanese Board Games"],
+        "requires": "|Riichi Mahjong| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Riichi Mahjong (Reveal Hand as Tenpai)", 
+        "category": ["Games", "Normal", "Japanese Games", "Board Games", "Additional Checks", "Japanese Board Games"],
+        "requires": "|Riichi Mahjong| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Riichi Mahjong (Win a Round)", 
+        "category": ["Games", "Hard", "Japanese Games", "Board Games", "Additional Checks", "Japanese Board Games"],
+        "requires": "|Riichi Mahjong| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Riichi Mahjong (Win a Round as Non-East)", 
+        "category": ["Games", "Amazing", "Japanese Games", "Board Games", "Additional Checks", "Japanese Board Games"],
+        "requires": "|Riichi Mahjong| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Riichi Mahjong (Win a Round as East)", 
+        "category": ["Games", "Impossible", "Japanese Games", "Board Games", "Additional Checks", "Japanese Board Games"],
+        "requires": "|Riichi Mahjong| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Last Card (First Win)", 
+        "category": ["Games", "Other", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Last Card| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Last Card (Win vs. Normal+ CPU)", 
+        "category": ["Games", "Normal", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Last Card| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Last Card (Win vs. Hard+ CPU)", 
+        "category": ["Games", "Hard", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Last Card| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Last Card (Win vs. Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Last Card| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Last Card (Win vs. Impossible CPU)", 
+        "category": ["Games", "Impossible", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Last Card| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Blackjack (First Win)", 
+        "category": ["Games", "Other", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Blackjack| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Blackjack (Win vs. CPU)", 
+        "category": ["Games", "Normal", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Blackjack| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Blackjack (Get a Blackjack)", 
+        "category": ["Games", "Hard", "Non-Japanese Card Games", "Card Games", "Additional Checks"],
+        "requires": "|Blackjack| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Blackjack (200 Chips)", 
+        "category": ["Games", "Amazing", "Non-Japanese Card Games", "Card Games", "Additional Checks"],
+        "requires": "|Blackjack| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Blackjack (300 Chips)", 
+        "category": ["Games", "Impossible", "Non-Japanese Card Games", "Card Games", "Additional Checks"],
+        "requires": "|Blackjack| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Texas Hold'em (First Win)", 
+        "category": ["Games", "Other", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Texas Hold'em| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Texas Hold'em (Win vs. CPU)", 
+        "category": ["Games", "Normal", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Texas Hold'em| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Texas Hold'em (200 Chips)", 
+        "category": ["Games", "Amazing", "Non-Japanese Card Games", "Card Games", "Additional Checks"],
+        "requires": "|Texas Hold'em| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "President (First Win)", 
+        "category": ["Games", "Other", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|President| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "President (Win vs. Normal+ CPU)", 
+        "category": ["Games", "Normal", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|President| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "President (Win vs. Hard+ CPU)", 
+        "category": ["Games", "Hard", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|President| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "President (Win vs. Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|President| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "President (Win vs. Impossible CPU)", 
+        "category": ["Games", "Impossible", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|President| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Sevens (First Win)", 
+        "category": ["Games", "Other", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Sevens| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Sevens (Win vs. Normal+ CPU)", 
+        "category": ["Games", "Normal", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Sevens| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Sevens (Win vs. Hard+ CPU)", 
+        "category": ["Games", "Hard", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Sevens| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Sevens (Win vs. Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Sevens| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Sevens (Win vs. Impossible CPU)", 
+        "category": ["Games", "Impossible", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Sevens| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Speed (First Win)", 
+        "category": ["Games", "Other", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Speed| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Speed (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Speed| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Speed (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Speed| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Speed (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Speed| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Speed (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Speed| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Speed (Win By 3 or More)", 
+        "category": ["Games", "Amazing", "Non-Japanese Card Games", "Card Games", "Additional Checks"],
+        "requires": "|Speed| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Matching (First Win)", 
+        "category": ["Games", "Other", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Matching| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Matching (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Matching| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Matching (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Matching| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Matching (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Matching| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Matching (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|Matching| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "War (First Win)", 
+        "category": ["Games", "Other", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|War| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "War (Defeat CPU)", 
+        "category": ["Games", "Normal", "Non-Japanese Card Games", "Card Games"],
+        "requires": "|War| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "War (3 in a row!)", 
+        "category": ["Games", "Hard", "Non-Japanese Card Games", "Card Games", "Additional Checks"],
+        "requires": "|War| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "War (16 Points)", 
+        "category": ["Games", "Amazing", "Non-Japanese Card Games", "Card Games", "Additional Checks"],
+        "requires": "|War| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "War (4 in a row!)", 
+        "category": ["Games", "Impossible", "Non-Japanese Card Games", "Card Games", "Additional Checks"],
+        "requires": "|War| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Takoyaki (First Win)", 
+        "category": ["Games", "Other", "Japanese Games", "Card Games", "Japanese Card Games"],
+        "requires": "|Takoyaki| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Takoyaki (Defeat CPU)", 
+        "category": ["Games", "Other", "Japanese Games", "Card Games", "Japanese Card Games"],
+        "requires": "|Takoyaki| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Takoyaki (3-streak!)", 
+        "category": ["Games", "Amazing", "Japanese Games", "Card Games", "Additional Checks", "Japanese Card Games"],
+        "requires": "|Takoyaki| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Pig's Tail (First Win)", 
+        "category": ["Games", "Other", "Japanese Games", "Card Games", "Japanese Card Games"],
+        "requires": "|Pig's Tail| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Pig's Tail (Defeat CPU)", 
+        "category": ["Games", "Other", "Japanese Games", "Card Games", "Japanese Card Games"],
+        "requires": "|Pig's Tail| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Pig's Tail (10 or Fewer Points)", 
+        "category": ["Games", "Other", "Japanese Games", "Card Games", "Additional Checks", "Japanese Card Games"],
+        "requires": "|Pig's Tail| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Golf (First Completion)", 
+        "category": ["Games", "Other", "Sophisticated Games", "Sports Games"],
+        "requires": "|Golf| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Golf (3 Holes, Par)", 
+        "category": ["Games", "Normal", "Sophisticated Games", "Sports Games"],
+        "requires": "|Golf| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Golf (9 Holes, Par)", 
+        "category": ["Games", "Normal", "Sophisticated Games", "Sports Games"],
+        "requires": "|Golf| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Golf (3 Holes, -1)", 
+        "category": ["Games", "Hard", "Sophisticated Games", "Sports Games"],
+        "requires": "|Golf| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Golf (9 Holes, -3)", 
+        "category": ["Games", "Hard", "Sophisticated Games", "Sports Games"],
+        "requires": "|Golf| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Golf (3 Holes, -2)", 
+        "category": ["Games", "Amazing", "Sophisticated Games", "Sports Games"],
+        "requires": "|Golf| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Golf (9 Holes, -6)", 
+        "category": ["Games", "Amazing", "Sophisticated Games", "Sports Games"],
+        "requires": "|Golf| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Golf (3 Holes, -3)", 
+        "category": ["Games", "Impossible", "Sophisticated Games", "Sports Games"],
+        "requires": "|Golf| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Golf (9 Holes, -9)", 
+        "category": ["Games", "Impossible", "Sophisticated Games", "Sports Games"],
+        "requires": "|Golf| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Golf (Hole in One)", 
+        "category": ["Games", "Amazing", "Sophisticated Games", "Sports Games", "Additional Checks"],
+        "requires": "|Golf| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Billiards (First Win)", 
+        "category": ["Games", "Other", "Sophisticated Games", "Sports Games"],
+        "requires": "|Billiards| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Billiards (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Sophisticated Games", "Sports Games"],
+        "requires": "|Billiards| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Billiards (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Sophisticated Games", "Sports Games"],
+        "requires": "|Billiards| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Billiards (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Sophisticated Games", "Sports Games"],
+        "requires": "|Billiards| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Billiards (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Sophisticated Games", "Sports Games"],
+        "requires": "|Billiards| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Billiards (Win at 9-Ball)", 
+        "category": ["Games", "Other", "Sophisticated Games", "Sports Games"],
+        "requires": "|Billiards| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Billiards (Win with Simple Rules)", 
+        "category": ["Games", "Other", "Sophisticated Games", "Sports Games"],
+        "requires": "|Billiards| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Billiards (Win at 8-Ball)", 
+        "category": ["Games", "Other", "Sophisticated Games", "Sports Games"],
+        "requires": "|Billiards| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Bowling (First Completion)", 
+        "category": ["Games", "Other", "Sophisticated Games", "Sports Games"],
+        "requires": "|Bowling| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Bowling (30 Points in 5 Frames)", 
+        "category": ["Games", "Normal", "Sophisticated Games", "Sports Games"],
+        "requires": "|Bowling| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Bowling (40 Points in 5 Frames)", 
+        "category": ["Games", "Hard", "Sophisticated Games", "Sports Games"],
+        "requires": "|Bowling| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Bowling (50 Points in 5 Frames)", 
+        "category": ["Games", "Amazing", "Sophisticated Games", "Sports Games"],
+        "requires": "|Bowling| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Bowling (60 Points in 5 Frames)", 
+        "category": ["Games", "Impossible", "Sophisticated Games", "Sports Games"],
+        "requires": "|Bowling| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Bowling (60 Points in 10 Frames)", 
+        "category": ["Games", "Normal", "Sophisticated Games", "Sports Games"],
+        "requires": "|Bowling| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Bowling (80 Points in 10 Frames)", 
+        "category": ["Games", "Hard", "Sophisticated Games", "Sports Games"],
+        "requires": "|Bowling| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Bowling (100 Points in 10 Frames)", 
+        "category": ["Games", "Amazing", "Sophisticated Games", "Sports Games"],
+        "requires": "|Bowling| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Bowling (120 Points in 10 Frames)", 
+        "category": ["Games", "Impossible", "Sophisticated Games", "Sports Games"],
+        "requires": "|Bowling| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Bowling (64 Points in Challenge)", 
+        "category": ["Games", "Normal", "Sophisticated Games", "Sports Games"],
+        "requires": "|Bowling| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Bowling (72 Points in Challenge)", 
+        "category": ["Games", "Hard", "Sophisticated Games", "Sports Games"],
+        "requires": "|Bowling| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Bowling (80 Points in Challenge)", 
+        "category": ["Games", "Amazing", "Sophisticated Games", "Sports Games"],
+        "requires": "|Bowling| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Bowling (88 Points in Challenge)", 
+        "category": ["Games", "Impossible", "Sophisticated Games", "Sports Games"],
+        "requires": "|Bowling| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Darts (First Win)", 
+        "category": ["Games", "Other", "Sophisticated Games", "Sports Games"],
+        "requires": "|Darts| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Darts (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Sophisticated Games", "Sports Games"],
+        "requires": "|Darts| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Darts (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Sophisticated Games", "Sports Games"],
+        "requires": "|Darts| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Darts (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Sophisticated Games", "Sports Games"],
+        "requires": "|Darts| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Darts (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Sophisticated Games", "Sports Games"],
+        "requires": "|Darts| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Darts (Win at Count Up)", 
+        "category": ["Games", "Other", "Sophisticated Games", "Sports Games"],
+        "requires": "|Darts| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Darts (Win at 301)", 
+        "category": ["Games", "Other", "Sophisticated Games", "Sports Games"],
+        "requires": "|Darts| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Darts (Win at 501)", 
+        "category": ["Games", "Other", "Sophisticated Games", "Sports Games"],
+        "requires": "|Darts| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Darts (Get a 180)", 
+        "category": ["Games", "Amazing", "Sophisticated Games", "Sports Games", "Additional Checks"],
+        "requires": "|Darts| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Carrom (First Win)", 
+        "category": ["Games", "Other", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Carrom| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Carrom (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Carrom| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Carrom (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Carrom| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Carrom (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Carrom| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Carrom (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Carrom| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Carrom (Pocket and Cover the Queen)", 
+        "category": ["Games", "Hard", "Variety Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|Carrom| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Tennis (First Win)", 
+        "category": ["Games", "Other", "Toy Games", "Sports Games"],
+        "requires": "|Toy Tennis| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Tennis (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Toy Games", "Sports Games"],
+        "requires": "|Toy Tennis| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Tennis (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Toy Games", "Sports Games"],
+        "requires": "|Toy Tennis| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Tennis (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Toy Games", "Sports Games"],
+        "requires": "|Toy Tennis| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Tennis (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Toy Games", "Sports Games"],
+        "requires": "|Toy Tennis| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Football (Toy Soccer) (First Win)", 
+        "category": ["Games", "Other", "Toy Games", "Sports Games"],
+        "requires": "|Toy Football (Toy Soccer)| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Football (Toy Soccer) (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Toy Games", "Sports Games"],
+        "requires": "|Toy Football (Toy Soccer)| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Football (Toy Soccer) (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Toy Games", "Sports Games"],
+        "requires": "|Toy Football (Toy Soccer)| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Football (Toy Soccer) (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Toy Games", "Sports Games"],
+        "requires": "|Toy Football (Toy Soccer)| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Football (Toy Soccer) (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Toy Games", "Sports Games"],
+        "requires": "|Toy Football (Toy Soccer)| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Curling (First Win)", 
+        "category": ["Games", "Other", "Toy Games", "Sports Games"],
+        "requires": "|Toy Curling| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Curling (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Toy Games", "Sports Games"],
+        "requires": "|Toy Curling| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Curling (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Toy Games", "Sports Games"],
+        "requires": "|Toy Curling| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Curling (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Toy Games", "Sports Games"],
+        "requires": "|Toy Curling| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Curling (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Toy Games", "Sports Games"],
+        "requires": "|Toy Curling| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Boxing (First Win)", 
+        "category": ["Games", "Other", "Toy Games", "Sports Games"],
+        "requires": "|Toy Boxing| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Boxing (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Toy Games", "Sports Games"],
+        "requires": "|Toy Boxing| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Boxing (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Toy Games", "Sports Games"],
+        "requires": "|Toy Boxing| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Boxing (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Toy Games", "Sports Games"],
+        "requires": "|Toy Boxing| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Boxing (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Toy Games", "Sports Games"],
+        "requires": "|Toy Boxing| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Boxing (Get a KO)", 
+        "category": ["Games", "Amazing", "Toy Games", "Sports Games", "Additional Checks"],
+        "requires": "|Toy Boxing| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Baseball (First Win)", 
+        "category": ["Games", "Other", "Toy Games", "Sports Games"],
+        "requires": "|Toy Baseball| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Baseball (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Toy Games", "Sports Games"],
+        "requires": "|Toy Baseball| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Baseball (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Toy Games", "Sports Games"],
+        "requires": "|Toy Baseball| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Baseball (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Toy Games", "Sports Games"],
+        "requires": "|Toy Baseball| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Toy Baseball (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Toy Games", "Sports Games"],
+        "requires": "|Toy Baseball| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Air Hockey (First Win)", 
+        "category": ["Games", "Other", "Sophisticated Games", "Sports Games"],
+        "requires": "|Air Hockey| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Air Hockey (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Sophisticated Games", "Sports Games"],
+        "requires": "|Air Hockey| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Air Hockey (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Sophisticated Games", "Sports Games"],
+        "requires": "|Air Hockey| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Air Hockey (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Sophisticated Games", "Sports Games"],
+        "requires": "|Air Hockey| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Air Hockey (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Sophisticated Games", "Sports Games"],
+        "requires": "|Air Hockey| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Slot Cars (First Win)", 
+        "category": ["Games", "Other", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Slot Cars| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Slot Cars (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Slot Cars| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Slot Cars (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Slot Cars| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Slot Cars (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Slot Cars| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Slot Cars (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Slot Cars| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Fishing (First Completion)", 
+        "category": ["Games", "Other", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Fishing| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Fishing (2000g in 3 Minutes)", 
+        "category": ["Games", "Normal", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Fishing| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Fishing (5000g in 3 Minutes)", 
+        "category": ["Games", "Hard", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Fishing| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Fishing (7500g in 3 Minutes)", 
+        "category": ["Games", "Amazing", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Fishing| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Fishing (10000g in 3 Minutes)", 
+        "category": ["Games", "Impossible", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Fishing| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Fishing (5000g in Unlimited Time)", 
+        "category": ["Games", "Normal", "Variety Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|Fishing| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Fishing (10000g in Unlimited Time)", 
+        "category": ["Games", "Hard", "Variety Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|Fishing| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Fishing (15000g in Unlimited Time)", 
+        "category": ["Games", "Amazing", "Variety Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|Fishing| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Fishing (20000g in Unlimited Time)", 
+        "category": ["Games", "Impossible", "Variety Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|Fishing| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Battle Tanks (First Win)", 
+        "category": ["Games", "Other", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Battle Tanks| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Battle Tanks (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Battle Tanks| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Battle Tanks (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Battle Tanks| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Battle Tanks (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Battle Tanks| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Battle Tanks (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Battle Tanks| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Team Tanks (First Win)", 
+        "category": ["Games", "Other", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Team Tanks| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Team Tanks (Clear Field #1)", 
+        "category": ["Games", "Other", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Team Tanks| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Team Tanks (Clear Field #2)", 
+        "category": ["Games", "Other", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Team Tanks| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Team Tanks (Clear Field #3)", 
+        "category": ["Games", "Other", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Team Tanks| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Shooting Gallery (First Completion)", 
+        "category": ["Games", "Other", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Shooting Gallery| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Shooting Gallery (100 Points)", 
+        "category": ["Games", "Normal", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Shooting Gallery| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Shooting Gallery (150 Points)", 
+        "category": ["Games", "Hard", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Shooting Gallery| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Shooting Gallery (200 Points)", 
+        "category": ["Games", "Amazing", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Shooting Gallery| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Shooting Gallery (250 Points)", 
+        "category": ["Games", "Impossible", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|Shooting Gallery| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "6-Ball Puzzle (First Win)", 
+        "category": ["Games", "Other", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|6-Ball Puzzle| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "6-Ball Puzzle (Defeat Normal+ CPU)", 
+        "category": ["Games", "Normal", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|6-Ball Puzzle| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "6-Ball Puzzle (Defeat Hard+ CPU)", 
+        "category": ["Games", "Hard", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|6-Ball Puzzle| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "6-Ball Puzzle (Defeat Amazing+ CPU)", 
+        "category": ["Games", "Amazing", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|6-Ball Puzzle| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "6-Ball Puzzle (Defeat Impossible CPU)", 
+        "category": ["Games", "Impossible", "Variety Games", "Variety and Single-Player Games"],
+        "requires": "|6-Ball Puzzle| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "6-Ball Puzzle (Form a Line)", 
+        "category": ["Games", "Normal", "Variety Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|6-Ball Puzzle| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "6-Ball Puzzle (Form a Pyramid)", 
+        "category": ["Games", "Hard", "Variety Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|6-Ball Puzzle| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "6-Ball Puzzle (Form a Hexagon)", 
+        "category": ["Games", "Amazing", "Variety Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|6-Ball Puzzle| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Sliding Puzzle (First Completion)", 
+        "category": ["Games", "Other", "Single-Player Games", "Variety and Single-Player Games"],
+        "requires": "|Sliding Puzzle| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Sliding Puzzle (100 Points with Turtle)", 
+        "category": ["Games", "Normal", "Single-Player Games", "Variety and Single-Player Games"],
+        "requires": "|Sliding Puzzle| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Sliding Puzzle (070 Points with Rabbit)", 
+        "category": ["Games", "Normal", "Single-Player Games", "Variety and Single-Player Games"],
+        "requires": "|Sliding Puzzle| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Sliding Puzzle (300 Points with Turtle)", 
+        "category": ["Games", "Hard", "Single-Player Games", "Variety and Single-Player Games"],
+        "requires": "|Sliding Puzzle| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Sliding Puzzle (210 Points with Rabbit)", 
+        "category": ["Games", "Hard", "Single-Player Games", "Variety and Single-Player Games"],
+        "requires": "|Sliding Puzzle| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Sliding Puzzle (500 Points with Turtle)", 
+        "category": ["Games", "Amazing", "Single-Player Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|Sliding Puzzle| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Sliding Puzzle (350 Points with Rabbit)", 
+        "category": ["Games", "Amazing", "Single-Player Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|Sliding Puzzle| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Sliding Puzzle (750 Points with Turtle)", 
+        "category": ["Games", "Impossible", "Single-Player Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|Sliding Puzzle| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Sliding Puzzle (520 Points with Rabbit)", 
+        "category": ["Games", "Impossible", "Single-Player Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|Sliding Puzzle| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mahjong Solitaire (First Clear)", 
+        "category": ["Games", "Other", "Single-Player Games", "Variety and Single-Player Games"],
+        "requires": "|Mahjong Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mahjong Solitaire (Clear 1 Beginner Stage)", 
+        "category": ["Games", "Normal", "Single-Player Games", "Variety and Single-Player Games"],
+        "requires": "|Mahjong Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mahjong Solitaire (Clear 1 Standard Stage)", 
+        "category": ["Games", "Normal", "Single-Player Games", "Variety and Single-Player Games"],
+        "requires": "|Mahjong Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mahjong Solitaire (Clear 1 Advanced Stage)", 
+        "category": ["Games", "Hard", "Single-Player Games", "Variety and Single-Player Games"],
+        "requires": "|Mahjong Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mahjong Solitaire (Clear 1 Beginner Stage with 2 Stars)", 
+        "category": ["Games", "Normal", "Single-Player Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|Mahjong Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mahjong Solitaire (Clear 1 Standard Stage with 2 Stars)", 
+        "category": ["Games", "Hard", "Single-Player Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|Mahjong Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mahjong Solitaire (Clear 1 Advanced Stage with 2 Stars)", 
+        "category": ["Games", "Amazing", "Single-Player Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|Mahjong Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mahjong Solitaire (Clear 1 Beginner Stage with 3 Stars)", 
+        "category": ["Games", "Hard", "Single-Player Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|Mahjong Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mahjong Solitaire (Clear 1 Standard Stage with 3 Stars)", 
+        "category": ["Games", "Amazing", "Single-Player Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|Mahjong Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Mahjong Solitaire (Clear 1 Advanced Stage with 3 Stars)", 
+        "category": ["Games", "Impossible", "Single-Player Games", "Variety and Single-Player Games", "Additional Checks"],
+        "requires": "|Mahjong Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Klondike Solitaire (First Clear)", 
+        "category": ["Games", "Other", "Single-Player Games", "Variety and Single-Player Games"],
+        "requires": "|Klondike Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Klondike Solitaire (Clear with Draw 1)", 
+        "category": ["Games", "Other", "Single-Player Games", "Variety and Single-Player Games"],
+        "requires": "|Klondike Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Klondike Solitaire (Clear with Draw 3)", 
+        "category": ["Games", "Other", "Single-Player Games", "Variety and Single-Player Games"],
+        "requires": "|Klondike Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Spider Solitaire (First Clear)", 
+        "category": ["Games", "Other", "Single-Player Games", "Variety and Single-Player Games"],
+        "requires": "|Spider Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Spider Solitaire (Clear Beginner)", 
+        "category": ["Games", "Normal", "Single-Player Games", "Variety and Single-Player Games"],
+        "requires": "|Spider Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Spider Solitaire (Clear Standard)", 
+        "category": ["Games", "Hard", "Single-Player Games", "Variety and Single-Player Games"],
+        "requires": "|Spider Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Spider Solitaire (Clear Advanced)", 
+        "category": ["Games", "Amazing", "Single-Player Games", "Variety and Single-Player Games"],
+        "requires": "|Spider Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    {
+        "name": "Play Ode To Joy (Piano)",
+        "category": ["Games", "Other", "Single-Player Games", "Variety and Single-Player Games", "Piano Checks"],
+        "requires": "|Piano| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    {
+        "name": "Play Joy To The World (Piano)",
+        "category": ["Games", "Other", "Single-Player Games", "Variety and Single-Player Games", "Piano Checks"],
+        "requires": "|Piano| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    {
+        "name": "Play Don't Forget (Piano)",
+        "category": ["Games", "Other", "Single-Player Games", "Variety and Single-Player Games", "Piano Checks"],
+        "requires": "|Piano| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    {
+        "name": "Play Witch Doctor (Piano)",
+        "category": ["Games", "Other", "Single-Player Games", "Variety and Single-Player Games", "Piano Checks"],
+        "requires": "|Piano| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    {
+        "name": "Play Twinkle Twinkle Little Star (Piano)",
+        "category": ["Games", "Other", "Single-Player Games", "Variety and Single-Player Games", "Piano Checks"],
+        "requires": "|Piano| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    {
+        "name": "Play Song of Time (Piano)",
+        "category": ["Games", "Other", "Single-Player Games", "Variety and Single-Player Games", "Piano Checks"],
+        "requires": "|Piano| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Board Games (First Win)", 
+        "category": ["Categories"],
+        "requires": "((|Minor Category - Wooden Games| and |@Wooden Games:1|) or (|Minor Category - Paper and Plastic Board Games| and |@Paper and Plastic Board Games:1|) or (|Minor Category - Japanese Games| and |@Japanese Board Games:1|) or (|Minor Category Gate Skip| and |@Board Games:1|)) and (|Major Category - Board Games| or |Major Category Gate Skip|)"
+    },
+    { 
+        "name": "Card Games (First Win)", 
+        "category": ["Categories"],
+        "requires": "((|Minor Category - Non-Japanese Card Games| and |@Non-Japanese Card Games:1|) or (|Minor Category - Japanese Games| and |@Japanese Card Games:1|) or (|Minor Category Gate Skip| and |@Card Games:1|)) and (|Major Category - Card Games| or |Major Category Gate Skip|)"
+    },
+    { 
+        "name": "Sports Games (First Win)", 
+        "category": ["Categories"],
+        "requires": "((|Minor Category - Sophisticated Games| and |@Sophisticated Games:1|) or (|Minor Category - Toy Games| and |@Toy Games:1|) or (|Minor Category Gate Skip| and |@Sports Games:1|)) and (|Major Category - Sports Games| or |Major Category Gate Skip|)"
+    },
+    { 
+        "name": "Variety and Single-Player Games (First Win)", 
+        "category": ["Categories"],
+        "requires": "((|Minor Category - Variety Games| and |@Variety Games:1|) or (|Minor Category - Single-Player Games| and |@Single-Player Games:1|) or (|Minor Category Gate Skip| and |@Variety and Single-Player Games:1|)) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|)"
+    },
+    { 
+        "name": "Wooden Games (First Win)", 
+        "category": ["Categories"],
+        "requires": "|@Wooden Games:1| and (|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)"
+    },
+    { 
+        "name": "Paper and Plastic Board Games (First Win)", 
+        "category": ["Categories"],
+        "requires": "|@Paper and Plastic Board Games:1| and (|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)"
+    },
+    { 
+        "name": "Japanese Games (First Win)", 
+        "category": ["Categories"],
+        "requires": "|@Japanese Games:1| and (|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category - Card Games| or |Major Category Gate Skip|)"
+    },
+    { 
+        "name": "Non-Japanese Card Games (First Win)", 
+        "category": ["Categories"],
+        "requires": "|@Non-Japanese Card Games:1| and (|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|)"
+    },
+    { 
+        "name": "Sophisticated Games (First Win)", 
+        "category": ["Categories"],
+        "requires": "|@Sophisticated Games:1| and (|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|)"
+    },
+    { 
+        "name": "Toy Games (First Win)", 
+        "category": ["Categories"],
+        "requires": "|@Toy Games:1| and (|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|)"
+    },
+    { 
+        "name": "Variety Games (First Win)", 
+        "category": ["Categories"],
+        "requires": "|@Variety Games:1| and (|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|)"
+    },
+    { 
+        "name": "Single-Player Games (First Win)", 
+        "category": ["Categories"],
+        "requires": "|@Single-Player Games:1| and (|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|)"
+    },
+    { 
+        "name": "Guest Pass Catalogue Complete (Dominoes, Four-in-a-Row, President, Slot Cars)", 
+        "category": ["Game Guides"],
+        "requires": "|Dominoes| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |Four-in-a-Row| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |President| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|)) and |Slot Cars| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Cristina's 'Best in Local Play' Complete (President, Last Card, Dominoes, Sevens, Riichi Mahjong)", 
+        "category": ["Game Guides"],
+        "requires": "|President| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|)) and |Last Card| and |Dominoes| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |Sevens| and |Riichi Mahjong| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Ryan's 'Touch Controls Throwdown!' Complete (Air Hockey, Renegade, Speed, Hex, Draughts (Checkers))", 
+        "category": ["Game Guides"],
+        "requires": "|Air Hockey| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|)) and |Renegade| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |Speed| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|)) and |Hex| and |Draughts (Checkers)| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Henrik's 'Solo Fun' Complete (Klondike Solitaire, Spider Solitaire, Mahjong Solitaire, Sliding Puzzle)", 
+        "category": ["Game Guides"],
+        "requires": "((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|)) and |Klondike Solitaire| and |Spider Solitaire| and |Mahjong Solitaire| and |Sliding Puzzle|"
+    },
+    { 
+        "name": "Halim's 'Worldwide Classics' Complete (Mancala, Dots and Boxes, Four-in-a-Row, Hit and Blow, Hare and Hounds)", 
+        "category": ["Game Guides"],
+        "requires": "|Mancala| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |Dots and Boxes| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |Four-in-a-Row| and |Hit and Blow| and |Hare and Hounds|"
+    },
+    { 
+        "name": "Samia's 'Historical Games' Complete (Backgammon, Nine Men's Morris, Chess, Shogi, Mancala)", 
+        "category": ["Game Guides"],
+        "requires": "|Backgammon| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |Nine Men's Morris| and |Chess| and |Shogi| and |Mancala|"
+    },
+    { 
+        "name": "Rita's Recommendation (Matching with Four Cards)", 
+        "category": ["Game Guides"],
+        "requires": "|Matching| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|)) and |Type of Match 4 Cards (Matching)|"
+    },
+    { 
+        "name": "Aida's 'One System, Multiple Players' Complete (Ludo, Chinese Checkers, Blackjack)", 
+        "category": ["Game Guides"],
+        "requires": "|Ludo| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |Chinese Checkers| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |Blackjack| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Shivam's 'High-Score Challenges' Complete (Darts, Bowling, Slot Cars, Sliding Puzzle, Toy Football (Toy Soccer))", 
+        "category": ["Game Guides"],
+        "requires": "|Darts| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|)) and |Bowling| and |Slot Cars| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|)) and |Sliding Puzzle| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|)) and |Toy Football (Toy Soccer)| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Olivia's 'Card Games Galore' Complete (President, Speed, Last Card, Matching, Sevens)", 
+        "category": ["Game Guides"],
+        "requires": "|President| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|)) and |Speed| and |Last Card| and |Matching| and |Sevens|"
+    },
+    { 
+        "name": "Mei Ling's 'Games That Never Get Old' Complete (Shogi, Mini Shogi, Riichi Mahjong, Chess)", 
+        "category": ["Game Guides"],
+        "requires": "|Shogi| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |Mini Shogi| and |Riichi Mahjong| and |Chess| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Yun's 'Action Games' Complete (Toy Tennis, Air Hockey, 6-Ball Puzzle, Speed, Shooting Gallery)", 
+        "category": ["Game Guides"],
+        "requires": "|Toy Tennis| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|)) and |Air Hockey| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|)) and |6-Ball Puzzle| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|)) and |Speed| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|)) and |Shooting Gallery|"
+    },
+    { 
+        "name": "Shikibu's 'Nintendo History' Complete (Hanafuda, Gomoku, President, Shogi, Riichi Mahjong)", 
+        "category": ["Game Guides"],
+        "requires": "|Hanafuda| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|)) and |Gomoku| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |President| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|)) and |Shogi| and |Riichi Mahjong|"
+    },
+    { 
+        "name": "Nicholas's 'Play on the Go' Complete (Fishing, Golf, Renegade, Chinese Checkers, Yacht Dice)", 
+        "category": ["Game Guides"],
+        "requires": "|Fishing| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|)) and |Golf| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|)) and |Renegade| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |Chinese Checkers| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |Yacht Dice|"
+    },
+    { 
+        "name": "Naomi's Challenge (Try to get Five Lights in Hanafuda)", 
+        "category": ["Game Guides"],
+        "requires": "|Hanafuda| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Russell's Recommendation (Play Sevens)", 
+        "category": ["Game Guides"],
+        "requires": "|Sevens| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Edward's 'Toy Competitions' Complete (Battle Tanks, Slot Cars, Fishing, Toy Baseball, Shooting Gallery)", 
+        "category": ["Game Guides"],
+        "requires": "|Battle Tanks| and ((|Minor Category - Variety Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|)) and |Slot Cars| and |Fishing| and |Toy Baseball| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|)) and |Shooting Gallery|"
+    },
+    { 
+        "name": "Keneisha's 'Social Games' Complete (Texas Hold'em, Blackjack, Darts, Billiards, Chess)", 
+        "category": ["Game Guides"],
+        "requires": "|Texas Hold'em| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|)) and |Blackjack| and |Darts| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|)) and |Billiards| and |Chess| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Sofia's 'In-Flight Companions' Complete (Yacht Dice, Nine Men's Morris, Chess, Backgammon, Ludo)", 
+        "category": ["Game Guides"],
+        "requires": "|Yacht Dice| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |Nine Men's Morris| and |Chess| and |Backgammon| and |Ludo| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Daniel's 'Test Your Luck' Complete (Spider Solitaire, Blackjack, War, Pig's Tail, Takoyaki)", 
+        "category": ["Game Guides"],
+        "requires": "|Spider Solitaire| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|)) and |Blackjack| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|)) and |War| and |Pig's Tail| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|)) and |Takoyaki|"
+    },
+    { 
+        "name": "Tyrone's 'The Four Great Games' Complete (Chess, Backgammon, Dominoes, Blackjack)", 
+        "category": ["Game Guides"],
+        "requires": "|Chess| and ((|Minor Category - Wooden Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |Backgammon| and |Dominoes| and ((|Minor Category - Paper and Plastic Board Games| or |Minor Category Gate Skip|) and (|Major Category - Board Games| or |Major Category Gate Skip|)) and |Blackjack| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Ricardo's 'For the Sports Fans!' Complete (Toy Football (Toy Soccer), Toy Boxing, Toy Baseball, Toy Curling, Bowling)", 
+        "category": ["Game Guides"],
+        "requires": "|Toy Football (Toy Soccer)| and ((|Minor Category - Toy Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|)) and |Toy Boxing| and |Toy Baseball| and |Toy Curling| and |Bowling| and ((|Minor Category - Sophisticated Games| or |Minor Category Gate Skip|) and (|Major Category - Sports Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Naomi's Present (Mario Deck for Hanafuda)", 
+        "category": ["Game Guides"],
+        "requires": "|Hanafuda| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Russell's Present (Mario Deck for Playing Cards)", 
+        "category": ["Game Guides"],
+        "requires": "(|@Japanese Playing Cards:1| and ((|Minor Category - Japanese Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))) or (|@Non-Japanese Playing Cards:1| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))) or (|@Single-Player Playing Cards:1| and ((|Minor Category - Single-Player Games| or |Minor Category Gate Skip|) and (|Major Category - Variety and Single-Player Games| or |Major Category Gate Skip|)))"
+    },
+    { 
+        "name": "Rita's Present (Mario Deck for Matching)", 
+        "category": ["Game Guides"],
+        "requires": "|Matching| and ((|Minor Category - Non-Japanese Card Games| or |Minor Category Gate Skip|) and (|Major Category - Card Games| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Albert's Reward (Credits)", 
+        "category": ["Game Guides"],
+        "requires": "|@Games:51| and ((|@Minor Categories:8| or |Minor Category Gate Skip|) and (|@Major Categories:4| or |Major Category Gate Skip|))"
+    },
+    { 
+        "name": "Triumph Over a Sufficient Number of Games", 
+        "category": ["Victory", "Overall"],
+        "requires": "{goalAmount()} and ((|@Minor Categories:8| or |Minor Category Gate Skip|) and (|@Major Categories:4| or |Major Category Gate Skip|))",
+        "place_item": ["Victory Condition Point"]
+    },
+    { 
+        "name": "Triumph Over All Major Categories", 
+        "category": ["Victory", "Major"],
+        "requires": "{boardGoalAmount()} and {cardGoalAmount()} and {sportsGoalAmount()} and {varietyAndSinglePlayerGoalAmount()} and ((|@Minor Categories:8| or |Minor Category Gate Skip|) and (|@Major Categories:4| or |Major Category Gate Skip|))",
+        "place_item": ["Victory Condition Point"]
+    },
+    { 
+        "name": "Triumph Over All Minor Categories", 
+        "category": ["Victory", "Minor"],
+        "requires": "{woodenGoalAmount()} and {paperPlasticGoalAmount()} and {japaneseGoalAmount()} and {nonJapaneseCardGoalAmount()} and {sophisticatedGoalAmount()} and {toyGoalAmount()} and {varietyGoalAmount()} and {singlePlayerGoalAmount()} and ((|@Minor Categories:8| or |Minor Category Gate Skip|) and (|@Major Categories:4| or |Major Category Gate Skip|))",
+        "place_item": ["Victory Condition Point"]
+    },
+    { 
+        "name": "Complete Mastery Trophy Collection", 
+        "category": ["Victory", "Win Items"],
+        "requires": "{itemGoalAmount()} and ((|@Minor Categories:8| or |Minor Category Gate Skip|) and (|@Major Categories:4| or |Major Category Gate Skip|))",
+        "place_item": ["Victory Condition Point"]
+    },
+    { 
+        "name": "Declare Overall Victory", 
+        "category": ["Victory"],
+        "requires": "{victoriesRequired()}",
+        "victory": true
+    }
+]
